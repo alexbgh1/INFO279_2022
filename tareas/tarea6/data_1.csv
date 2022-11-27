@@ -1,0 +1,51 @@
+id_news;title;label;anotador;label_ministerio
+47135604.0;Diputados UDI piden información a  municipalidades y Metro de Santiago por denuncias de acoso en barrio universitario;NEU;agarnica;mujer_equidad_genero
+47136121.0;Panquehue implementa aplicación lectora de patentes vehiculares;POS;agarnica;transportes_telecomunicaciones
+47136140.0;Dos personas fallecidas dejó accidente de tránsito en las cercanías de Collipulli;NEG;agarnica;transportes_telecomunicaciones
+47136168.0;Nuevo ataque incendiario dejó un camión destruido en la ruta Lumaco- Traiguén;NEG;agarnica;interior_y_seguridad_publica
+47137055.0;PDi detuvo a 4 personas por tráfico en Laguna de Zapallar;POS;agarnica;interior_y_seguridad_publica
+47137152.0;Fintech Clever lanza ambicioso programa de referidos para triplicar su presencia nacional en 2022;POS;agarnica;sin_etiqueta
+47138493.0;"Murió Luis Cortes Villa, expresidente de la fundación del dictador Augusto Pinochet";POS;agarnica;sin_etiqueta
+47138503.0;Presidente Gabriel Boric encabeza primera reunión del Comité Interministerial de Respuesta Pandémica;POS;agarnica;secretaria_general_presidencia
+47140850.0;Hospital reconoce el compromiso y dedicación de especialista que continuará trabajando tras cumplir con su Periodo Asistencial Obligatorio;POS;agarnica;salud
+47144093.0;En ajuste de cuentas disparan a ciudadano haitiano en la Copec de O’Higgins;NEG;agarnica;interior_y_seguridad_publica
+47144165.0;Desde mañana al fin empieza a rodar el balón en el fútbol amateur local;POS;agarnica;deporte
+47144169.0;Unos mil contribuyentes serán asesorados por alumnos del Roberto Humeres;POS;agarnica;sin_etiqueta
+47149030.0;Estos son los principales riesgos de la Región de Coquimbo frente al Cambio Climático;NEG;agarnica;medio_ambiente
+47153512.0;Delegada Sofía González fija lineamientos a nuevos seremis en primer Gabinete Regional;NEU;agarnica;sin_etiqueta
+47153516.0;Festival de documentales más importante de Canadá tendrá foco en el cine chileno;POS;agarnica;relaciones_exteriores
+47153518.0;Alcaldesas y alcaldes se reúnen con ministra Izkia Siches para proponer lineamientos de seguridad;POS;agarnica;interior_y_seguridad_publica
+47153530.0;"Mes del Libro en Valparaíso trae cuentacuentos con María Izquierdo; poesía en lancha y puntos lectores";POS;agarnica;culturas_artes_patrimonio
+47153575.0;Rector UV por acogida de académicos de Ucrania: “Se trata de un esfuerzo humanitario para disminuir el dolor de muchas familias afectadas por la guerra”;POS;agarnica;relaciones_exteriores
+47153604.0;Diputada Camila Rojas refuerza trabajo para período de su pre y posnatal con equipo distrital;NEU;agarnica;sin_etiqueta
+47153605.0;Presidenta de Comisión Pesca de la Cámara visita a trabajadores pesqueros en su sede sindical para dialogar sobre problemáticas y propuestas;POS;agarnica;trabajo_prevision_social
+47163377.0;Escuela formativa desarrolla el Atletismo en Illapel;POS;agarnica;deporte
+47163380.0;Una mujer víctima de violencia intrafamiliar se podría demorar hasta 5 años en denunciar;NEG;agarnica;mujer_equidad_genero
+47163543.0;La Serena conmemora Día de la Visibilidad Trans;POS;agarnica;mujer_equidad_genero
+47163574.0;Condenan a 5 años y un día de presidio efectivo a autor de tráfico de drogas en Los Vilos;POS;agarnica;interior_y_seguridad_publica
+47174459.0;"En Llay Llay decomisan armas, municiones y droga";POS;agarnica;interior_y_seguridad_publica
+47174461.0;Suspenden clases de educación física en colegios de Quintero y Puchuncaví por falla en fundición Codelco Ventanas;NEG;agarnica;desarrollo_social_familia
+47174505.0;"Exministro de la Corte de Apelaciones de Valparaíso, Julio Miranda; falleció a los 78 años";NEG;agarnica;sin_etiqueta
+47174508.0;Locatarios viñamarinos visibilizan sus requerimientos en la previa de anuncios para la reactivación económica en La Moneda;POS;agarnica;sin_etiqueta
+47174872.0;Cambio de hora en Chile: hoy se ajusta al horario de invierno;NEU;agarnica;sin_etiqueta
+47246103.0;Funeral narco terminó con apuñalado y desmanes en SAPU de Reñaca;NEG;agarnica;interior_y_seguridad_publica
+47687324.0;"""Especies invasoras"" en Los Ríos: un incómodo debate medioambiental - Diario de Valdivia";NEG;agarnica;medio_ambiente
+47687326.0;"Municipalidad renueva planes de sexualidad, afectividad y género en liceos de Valdivia - Diario de Valdivia";POS;agarnica;educacion
+47687334.0;Celebran 50 años de Radio Austral en Valdivia - Diario de Valdivia;NEU;agarnica;culturas_artes_patrimonio
+47687336.0;Desconocidos robaron en dependencias municipales de La Unión - Diario de Valdivia;NEG;agarnica;interior_y_seguridad_publica
+47687343.0;Casos activos de covid-19 siguen cayendo: este viernes se reportaron menos de 400 - Diario de Valdivia;POS;agarnica;salud
+47687345.0;Confenats exige salida del director subrogante del Servicio de Salud Valdivia - Diario de Valdivia;NEG;agarnica;salud
+47687346.0;Adultos mayores aprenderán a tocar guitarra en Valdivia - Diario de Valdivia;POS;agarnica;trabajo_prevision_social
+47687347.0;Los Ríos da inicio a abril con 115 contagios de covid-19 - Diario de Valdivia;NEG;agarnica;salud
+47687348.0;Detienen a involucrado en amenazas de masacre a Liceo de Valdivia - Diario de Valdivia;POS;agarnica;interior_y_seguridad_publica
+47687354.0;Municipio y Carabineros realizan operativo conjunto para evitar fiestas en costanera - Diario de Valdivia;NEU;agarnica;interior_y_seguridad_publica
+47687355.0;Cambio de hora 2022: no olvides ajustar tu reloj  - Diario de Valdivia;NEU;agarnica;sin_etiqueta
+47687366.0;Conoce dónde puedes hacerte un test PCR en la Región de Los Ríos - Diario de Valdivia;NEU;agarnica;salud
+47718271.0;PDI investiga robo que afectó al área de finanzas del municipio de La Unión;NEU;agarnica;interior_y_seguridad_publica
+47731487.0;Suspenden recolección de basura este viernes en Río Bueno - Diario Río Bueno;NEG;agarnica;medio_ambiente
+47731949.0;"Mira el nuevo programa en CN Televisión, «La Historia es Nuestra»";NEU;agarnica;sin_etiqueta
+47733151.0;Encuentran a persona extraviada en sector rural de Futrono - Diario Futrono;POS;agarnica; sin_etiqueta
+47730954.0;Comités de Malalhue en alerta por toma ilegal de terreno - Diario Lanco;NEG;agarnica;sin_etiqueta
+47731472.0;Este viernes: dos furgones colisionaron en la ruta Puerto Nuevo-La Unión - Diario Río Bueno;NEG;agarnica;transportes_telecomunicaciones
+47731913.0;Tribunal ordena restituir cauce en reserva Mocho Choshuenco;POS;agarnica;medio_ambiente
+47732408.0;Desconocidos robaron en dependencias municipales de La Unión - Diario De La Unión;NEG;agarnica;interior_y_seguridad_publica

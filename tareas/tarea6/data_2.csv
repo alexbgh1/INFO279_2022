@@ -1,0 +1,51 @@
+id_news;title;label;anotador;label_ministerio
+47135604;Diputados UDI piden información a  municipalidades y Metro de Santiago por denuncias de acoso en barrio universitario;NEU;fruiz;mujer_equidad_genero
+47136121;Panquehue implementa aplicación lectora de patentes vehiculares;NEU;fruiz;transportes_telecomunicaciones
+47136140;Dos personas fallecidas dejó accidente de tránsito en las cercanías de Collipulli;NEG;fruiz;transportes_telecomunicaciones
+47136168;Nuevo ataque incendiario dejó un camión destruido en la ruta Lumaco- Traiguén;NEG;fruiz;interior_y_seguridad_publica
+47137055;PDi detuvo a 4 personas por tráfico en Laguna de Zapallar;POS;fruiz;interior_y_seguridad_publica
+47137152;Fintech Clever lanza ambicioso programa de referidos para triplicar su presencia nacional en 2022;NEU;fruiz;sin_etiqueta
+47138493;"Murió Luis Cortes Villa, expresidente de la fundación del dictador Augusto Pinochet";NEU;fruiz;sin_etiqueta
+47138503;Presidente Gabriel Boric encabeza primera reunión del Comité Interministerial de Respuesta Pandémica;NEU;fruiz;salud
+47140850;Hospital reconoce el compromiso y dedicación de especialista que continuará trabajando tras cumplir con su Periodo Asistencial Obligatorio;POS;fruiz;salud
+47144093;En ajuste de cuentas disparan a ciudadano haitiano en la Copec de O’Higgins;NEG;fruiz;interior_y_seguridad_publica
+47144165;Desde mañana al fin empieza a rodar el balón en el fútbol amateur local;NEU;fruiz;deporte
+47144169;Unos mil contribuyentes serán asesorados por alumnos del Roberto Humeres;POS;fruiz;sin_etiqueta
+47149030;Estos son los principales riesgos de la Región de Coquimbo frente al Cambio Climático;NEU;fruiz;medio_ambiente
+47153512;Delegada Sofía González fija lineamientos a nuevos seremis en primer Gabinete Regional;NEU;fruiz;sin_etiqueta
+47153516;Festival de documentales más importante de Canadá tendrá foco en el cine chileno;NEU;fruiz;culturas_artes_patrimonio
+47153518;Alcaldesas y alcaldes se reúnen con ministra Izkia Siches para proponer lineamientos de seguridad;POS;fruiz;interior_y_seguridad_publica
+47153530;"Mes del Libro en Valparaíso trae cuentacuentos con María Izquierdo; poesía en lancha y puntos lectores";NEU;fruiz;culturas_artes_patrimonio
+47153575;Rector UV por acogida de académicos de Ucrania: “Se trata de un esfuerzo humanitario para disminuir el dolor de muchas familias afectadas por la guerra”;NEU;fruiz;justicia_derechos_humanos
+47153604;Diputada Camila Rojas refuerza trabajo para período de su pre y posnatal con equipo distrital;NEU;fruiz;sin_etiqueta
+47153605;Presidenta de Comisión Pesca de la Cámara visita a trabajadores pesqueros en su sede sindical para dialogar sobre problemáticas y propuestas;POS;fruiz;economia_fomento_turismo
+47163377;Escuela formativa desarrolla el Atletismo en Illapel;POS;fruiz;deporte
+47163380;Una mujer víctima de violencia intrafamiliar se podría demorar hasta 5 años en denunciar;NEG;fruiz;mujer_equidad_genero
+47163543;La Serena conmemora Día de la Visibilidad Trans;NEU;fruiz;mujer_equidad_genero
+47163574;Condenan a 5 años y un día de presidio efectivo a autor de tráfico de drogas en Los Vilos;POS;fruiz;justicia_derechos_humanos
+47174459;"En Llay Llay decomisan armas, municiones y droga";POS;fruiz;interior_y_seguridad_publica
+47174461;Suspenden clases de educación física en colegios de Quintero y Puchuncaví por falla en fundición Codelco Ventanas;NEG;fruiz;medio_ambiente
+47174505;"Exministro de la Corte de Apelaciones de Valparaíso; Julio Miranda; falleció a los 78 años";NEG;fruiz;justicia_derechos_humanos
+47174508;Locatarios viñamarinos visibilizan sus requerimientos en la previa de anuncios para la reactivación económica en La Moneda;NEU;fruiz;economia_fomento_turismo
+47174872;Cambio de hora en Chile: hoy se ajusta al horario de invierno;NEU;fruiz;sin_etiqueta
+47246103;Funeral narco terminó con apuñalado y desmanes en SAPU de Reñaca;NEG;fruiz;interior_y_seguridad_publica
+47687324;"""Especies invasoras"" en Los Ríos: un incómodo debate medioambiental - Diario de Valdivia";NEU;fruiz;medio_ambiente
+47687326;"Municipalidad renueva planes de sexualidad, afectividad y género en liceos de Valdivia - Diario de Valdivia";POS;fruiz;educacion
+47687334;Celebran 50 años de Radio Austral en Valdivia - Diario de Valdivia;NEU;fruiz;sin_etiqueta
+47687336;Desconocidos robaron en dependencias municipales de La Unión - Diario de Valdivia;NEG;fruiz;interior_y_seguridad_publica
+47687343;Casos activos de covid-19 siguen cayendo: este viernes se reportaron menos de 400 - Diario de Valdivia;POS;fruiz;salud
+47687345;Confenats exige salida del director subrogante del Servicio de Salud Valdivia - Diario de Valdivia;NEU;fruiz;salud
+47687346;Adultos mayores aprenderán a tocar guitarra en Valdivia - Diario de Valdivia;POS;fruiz;desarrollo_social_familia
+47687347;Los Ríos da inicio a abril con 115 contagios de covid-19 - Diario de Valdivia;NEU;fruiz;salud
+47687348;Detienen a involucrado en amenazas de masacre a Liceo de Valdivia - Diario de Valdivia;POS;fruiz;interior_y_seguridad_publica
+47687354;Municipio y Carabineros realizan operativo conjunto para evitar fiestas en costanera - Diario de Valdivia;POS;fruiz;interior_y_seguridad_publica
+47687355;Cambio de hora 2022: no olvides ajustar tu reloj  - Diario de Valdivia;NEU;fruiz;sin_etiqueta
+47687366;Conoce dónde puedes hacerte un test PCR en la Región de Los Ríos - Diario de Valdivia;NEU;fruiz;salud
+47718271;PDI investiga robo que afectó al área de finanzas del municipio de La Unión;POS;fruiz;interior_y_seguridad_publica
+47731487;Suspenden recolección de basura este viernes en Río Bueno - Diario Río Bueno;NEG;fruiz;sin_etiqueta
+47731949;"Mira el nuevo programa en CN Televisión, «La Historia es Nuestra»";NEU;fruiz;culturas_artes_patrimonio
+47733151;Encuentran a persona extraviada en sector rural de Futrono - Diario Futrono;POS;fruiz;sin_etiqueta
+47730954;Comités de Malalhue en alerta por toma ilegal de terreno - Diario Lanco;NEU;fruiz;sin_etiqueta
+47731472;Este viernes: dos furgones colisionaron en la ruta Puerto Nuevo-La Unión - Diario Río Bueno;NEG;fruiz;transportes_telecomunicaciones
+47731913;Tribunal ordena restituir cauce en reserva Mocho Choshuenco;POS;fruiz;medio_ambiente
+47732408;Desconocidos robaron en dependencias municipales de La Unión - Diario De La Unión;NEG;fruiz;interior_y_seguridad_publica
