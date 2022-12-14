@@ -1,66 +1,28 @@
-Lanzan primera Zona de Interés Turístico Birregional del país: “Lagos y Volcanes” Río Bueno – Puyehue ; POS ; 0.9860352277755736
-Un 54% de avance registran obras de nueva costanera de Puerto Octay ; POS ; 0.8469659090042114
-Nueva Ruta Puerto Montt: el innovador proyecto vial que ; POS ; 0.9953216910362244
-5 mujeres matemáticas que han cambiado al mundo ; POS ; 0.99673730134964
-Tras hito de cierre: Plan Nacional de Protección de Humedales logra reconocer más de 15 mil hectáreas protegidas en Los Lagos ; POS ; 0.986211121082306
-Lecturas recomendadas para ampliar la curiosidad y creatividad de profesores y equipos directivos ; POS ; 0.9983069896697998
-Autoridades regionales se reunieron con emprendedores de Osorno para articular redes y potenciar negocios ; POS ; 0.5710846781730652
-Data Influye: Un 42% tiene altas expectativas del primer año de Gobierno de Boric ; POS ; 0.9776647686958312
-Evento se llevó a cabo en Rosario, Argentina: Joven puertovarino Agustín Infante obtuvo dos medallas de oro en los Juegos Sudamericanos de la Juventud en Tiro al Blanco ; POS ; 0.7690678834915161
-Estudiantes de liceos de Pilmaiquén y Río Negro clasificaron a la final regional de concurso de tecnología e innovación. ; POS ; 0.5491262078285217
-Buenos resultados se trajo la Rama Femenina de Básquetbol desde Castro ; POS ; 0.4793459475040436
-[Video]: El compromiso de SMU con el desarrollo de las pymes en Chile ; POS ; 0.9866989850997924
-Invitan a seminario sobre la experiencia de regadío en España como herramienta tecnológica para abordar el cambio climático ; POS ; 0.527164876461029
-Casa Klocker Prambs: Una viña con sabor a la cuenca del Lago Llanquihue ; POS ; 0.998284876346588
-GRANDES NOTICIAS PARA NUESTROS VECINOS!!- REANUDACIÓN TRABAJOS RUTA CRUCERO/ENTRE LAGOS. ; POS ; 0.9477906823158264
-Carrier y sus soluciones de climatización ayudan a preservar el patrimonio histórico global ; POS ; 0.9978394508361816
-Alumna del Instituto Profesional Santo Tomás gana concurso nacional de diseño ; POS ; 0.865187406539917
-Con gran éxito finalizó el proceso de postulación al programa “Mujeres Jefas de Hogar” 2022 en Chonchi. ; POS ; 0.9958575367927552
-Campaña “Colectivo Seguro” cumple un mes de su lanzamiento oficial y destaca la buena aceptación de los usuarios ; POS ; 0.9974358677864076
-Junto a coros del sur, Teatro del Lago estrena cantata inspirada en eclipse solar ; POS ; 0.6535621285438538
+Colegio Inmaculada Concepci�n de Puerto Varas se coron� campe�n en etapa comunal de Juegos Deportivos Escolares en B�squetbol femenino ; POS ; 0.8625015616416931
+D�a del Emprendimiento: consejos para iniciar un negocio de manera exitosa ; POS ; 0.9847820401191713
+Delegaci�n Provincial Presidencial de Chilo� activa red de apoyo para familia del peque�o David. ; POS ; 0.9416362643241882
+Castro Municipio dice presente en feria internacional de cruceros. ; POS ; 0.9967206120491028
+Red de Asistencia Digital Fortalece Pyme Los Lagos ofrece una oportunidad para que las Pymes de la regi�n hagan el chequeo digital de sus empresas ; POS ; 0.8379048109054565
+Incre�ble salvada: Helic�ptero capot� en Cocham� y sus 5 ocupantes resultaron ilesos ; POS ; 0.9741888642311096
+Data Influye: Un 42% tiene altas expectativas del primer a�o de Gobierno de Boric ; POS ; 0.9776648879051208
+De Pichicolo es la Reina de las Empanadas XL de Sierra Ahumada ; POS ; 0.9821924567222596
+Hoy viernes 18 de marzo en Teatro del Lago: Se estrena la �pera Patagonia, una visi�n americanista de la expedici�n de Magallanes ; POS ; 0.994201123714447
+La importancia del buen dormir ; POS ; 0.9708351492881776
+COMBAS celebra su cuarto aniversario ; POS ; 0.9783451557159424
+Emprendimiento de Puyehue gana el 6� Concurso Nacional Desaf�o Emprendedor ; POS ; 0.9732071757316588
+Humedales: clave en el funcionamiento de los ecosistemas ; POS ; 0.971163809299469
+Atl�tico Juega en casa este fin de semana: Enfrenta a Colegio Los Leones y Puente Alto ; POS ; 0.79083651304245
+M�s de 500 personas conocieron la historia y visitaron ex Lechera de Nueva Braunau en el D�a de los Patrimonios ; POS ; 0.6517285108566284
+Gobierno Regional de Los Lagos entregar� m�s de $400 millones en apoyo a deportistas de alto rendimiento de la Regi�n ; POS ; 0.7123727202415466
+"Es un disco que mira hacia el futuro" ; POS ; 0.9972965121269226
+Cooprinsem firma nuevo acuerdo con empresa irlandesa para potenciar la agricultura nacional. ; POS ; 0.5437024831771851
+�El que nada hace, nada teme� ; POS ; 0.9967203736305236
+Reciclaje colaborativo: El camino hacia una econom�a circular ; POS ; 0.7577723860740662
 
 
-Iniciativa busca disminuir escombros aéreos en la comuna: Se reunió Mesa de Mantenimiento de Líneas Aéreas en Puerto Varas ; NEU ; 0.9797714352607728
-Mientras duren los trabajos: Debido a obras de mejora de infraestructura en Escuela Grupo Escolar clases se realizarán en Colegio Rosita Novaro ; NEU ; 0.9958200454711914
-Senda y Carabineros realizaron más de 400 operativos de fiscalizaciones en rutas y carreteras por fin de semana largo ; NEU ; 0.9918553829193116
-Cámara de Comercio Osorno realiza primera reunión del año ; NEU ; 0.6891016960144043
-Joseph Kosinski, el arquitecto que dirigió el regreso de "Top Gun" ; NEU ; 0.997538924217224
-Delegada Pailalef se reunió con los cores de la provincia para escuchar inquietudes ; NEU ; 0.9942885637283324
-Seremi del Trabajo Ángel Cabrera hace un llamado a respetar el feriado obligatorio e irrenunciable del comercio este 1° de mayo ; NEU ; 0.9233748316764832
-Delegada Provincial ante la delincuencia en Osorno: “Carabineros está haciendo la pega” ; NEU ; 0.989498257637024
-Alrededor del 27% de los vendedores online adoptaron el “dropshipping” ; NEU ; 0.9953449368476868
-Corte de Luz en Puerto Montt: Será el miércoles 25 y durará 6 horas en sector María Reina [MAPA] ; NEU ; 0.9973190426826476
-Realizarán jornada informativa a la comunidad sobre IFE Laboral y difusión de ofertas de trabajo ; NEU ; 0.9918459057807922
-Municipalidad e Puerto Varas invita a organizaciones comunitarias a participar del Fondo Concursable “Mujeres por la Equidad” ; NEU ; 0.9458568096160888
-¿Eres un micro o pequeño emprendedor?, Sence invita a postular a los cursos de capacitación Despega Mipe ; NEU ; 0.9917185306549072
-MUNICIPIO Y CENTRO DE NEGOCIOS DESERCOTEC SUSCRIBIERON CONVENIO DECOLABORACIÓN PARA ENTREGARCAPACITACIÓN A EMPRENDEDORES LOCALES ; NEU ; 0.9960924983024596
-Corte de Luz en Osorno: Será el jueves 19 y durará 6 horas en sector Lomas de Pilauco [MAPA] ; NEU ; 0.997589111328125
-Consejo Regional, aprueba recursos para dos importantes proyectos para la provincia de Chiloé. ; NEU ; 0.5414706468582153
-Municipalidad llama a participar en elaboración de Ordenanza para proteger y conservar Humedales Urbanos ; NEU ; 0.9774948954582214
-Poesía Vecina: Pudeto Bajo y Catrumán ; NEU ; 0.997720181941986
-Teletón invita a sumarse a su Voluntariado 2022 en Puerto Montt ; NEU ; 0.9912269711494446
-Exposición “MARCOS” se inaugura mañana viernes en Galería Machacoya de Puerto Varas ; NEU ; 0.9299631714820862
-
-
-Sentencian a cinco años de cárcel a conductor ebrio que causó muerte de recién nacida en Los Lagos ; NEG ; 0.9535805583000184
-Incendio destruyó 3 locales comerciales y una vivienda ; NEG ; 0.9781233668327332
-Investigan robo de automóvil de la autoridad sanitaria en La Unión ; NEG ; 0.515989363193512
-Municipalidad de Puerto Varas paraliza 4 proyectos inmobiliarios en zonas rurales ; NEG ; 0.9233021140098572
-¡Medio susto!: Familia despertó con un puma en la puerta de la cocina ; NEG ; 0.9966148734092712
-Elon Musk podría hacer retroceder la moderación de las redes sociales ; NEG ; 0.8099458813667297
-Kremlin dice que no hay avances en negociaciones con Ucrania en etapa actual ; NEG ; 0.9914815425872804
-¿Por qué es baja la participación de las mujeres en emprendimientos? ; NEG ; 0.998140811920166
-Entre las diferentes marcas y tiendas: Estudio del Sernac detecta disparidad de medidas para una misma talla y tipo de prenda ; NEG ; 0.7826811075210571
-Llevaba a su hijo lactante de 4 meses: Carabineros detuvo a menor de edad colombiana por tráfico de drogas en bus con destino a Puerto Montt ; NEG ; 0.5127660632133484
-Forestales: El 2021 fue el año más violento desde el inicio de los ataques incendiarios ; NEG ; 0.7587184309959412
-Preocupación en Calbuco por aparente paralización de Obras de nuevo Liceo Politécno ; NEG ; 0.9424641132354736
-Usuarias denuncian cobros irregulares en estacionamientos del centro de Puerto Varas ; NEG ; 0.5012596249580383
-TOP de Puerto Montt condena a presidio efectivo a autor de serie de delitosen contra de mujeres y en contexto de violencia intrafamiliar ; NEG ; 0.9560336470603944
-Camila Hirane: "Martina es una justiciera de su propia vida" ; NEG ; 0.9976335763931274
-Reclusa del penal de Puerto Montt agredió con arma blanca a oficial de Gendarmería ; NEG ; 0.9913365840911864
-Estudiantes se tomaron escuela tras inundarse el establecimiento ; NEG ; 0.9932176470756532
-Efectos de la masiva migración a la ciudad: Más de100 menores en lista de espera en colegios de la comuna de Puerto Varas ; NEG ; 0.9946333169937134
-Agroseguros del Minagri llama a agricultores ; NEG ; 0.6570141911506653
-Tasa de desocupación en la región de Los Lagos alcanzó un 3% ; NEG ; 0.9856610298156738
-
-
+Corte de luz afectar� a la comuna de Ancud este viernes ; NEU ; 0.6699677109718323
+Puerto Montt registra a nivel pa�s la cifra m�s alta de automovilistas utilizando su celular mientras conducen ; NEU ; 0.6841658353805542
+Dieron el vamos a las obras de conservaci�n de Escuela Italia en Osorno ; NEU ; 0.9895341992378236
+Extienden b�squeda de joven desaparecido en Cocham� ; NEU ; 0.9724652767181396
+Municipalidad invita a creadores locales a participar del concurso Puerto Montt Cultura Adelante. ; NEU ; 0.5356513857841492
+WOM es certificada con el �Sello 40 Horas� por el Ministerio del Trabajo ; NEU ; 0.9975022673606871

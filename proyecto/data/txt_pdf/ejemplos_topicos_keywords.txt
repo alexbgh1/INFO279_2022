@@ -1,5 +1,4 @@
-Topic: 3 - Keywords: trabajo, parte, personas, año, región, través, años, desarrollo, proceso, país
-Topic: 1 - Keywords: establecimientos, establecimientos educacionales, libertad, alimentos, adolescentes, sentencia, justicia, tribunal, establecimientos públicos, jardines
-Topic: 0 - Keywords: años, información errónea, información, hechos, tiempo, horas, contenido, vez, pandemia, armas
-Topic: 6 - Keywords: retiro, exposición, artista, versión, aprendizajes, agujero, corte, piezas, ataque, luz
-Topic: 4 - Keywords: planta, minutos, vehículos, tierra, don, lluvia, calles, vecinos, aire libre, calle
+Topic: 3 - Keywords: a�os, lugar, comuna, sector, hechos, hombre, contexto, mujer, v�ctima, hecho
+Topic: 0 - Keywords: comuna, regi�n, provincia, parte, proyecto, recursos, proyectos, trabajo, comunidad, sector
+Topic: 1 - Keywords: ni�os, a�os, a�o, comunidad, educaci�n, parte, trav�s, actividades, programa, trabajo
+Topic: 2 - Keywords: pa�s, personas, productos, desarrollo, parte, trabajo, a�os, trav�s, a�o, mujeres

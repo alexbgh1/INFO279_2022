@@ -1,0 +1,66 @@
+Corfo Los Lagos anuncia primera convocatoria 2022 a dos programas de innovación ; POS ; 0.496755987405777
+Seremi de Agricultura presentó a nueva directora del INIA: Natalie Urrutia se convierte en la primera mujer en dirigir el centro de investigaciones en la Región de Los Lagos ; POS ; 0.9942025542259216
+Proyecto Fibra Óptica Nacional ya tiene 63% de avance: MTT y WOM presentan la carretera digital que fortalecerá la conectividad en Chile ; POS ; 0.9978654980659484
+Con 7 sumarios a viviendas cierra el primer mes de gestión de episodios críticos del PDA ; POS ; 0.9261012077331544
+Los Lagos suma 600 nuevos casos de covid-19 en las últimas 24 horas ; POS ; 0.477924108505249
+El próximo 9 de abril a las 19 horas: Freude Filarmónica presenta “Concerto Per Soli” en Casino Dreams ; POS ; 0.8709349632263184
+Hogar, Inclusión & Innovación: Una solución para el futuro ; POS ; 0.9981325268745422
+Lanzamos en Chile el programa Social Entrepreneurship ; POS ; 0.7903122901916504
+Convencional Adriana Ampuero: “Estamos cada vez más cerca de la creación de nuestro Chiloé Región”. ; POS ; 0.9984710812568665
+Hoy y mañana en el CAMM: Nueva versión de “Mercado Arte+Diseño” reunirá los mejores regalos para las madres junto a magia y danza ; POS ; 0.9982471466064452
+Potencian la atención primaria sumando nuevos médicos a tres Cesfam de Osorno ; POS ; 0.8371424674987793
+Con gran evento, Midea Chile presentó su línea de productos 2022 ; POS ; 0.9970056414604188
+Emprendedoras: una de cada tres es principal sostén del hogar ; POS ; 0.9648205041885376
+Así fue que las chilenas Frank's White Canvas llegaron a telonear a Kiss ; POS ; 0.7190630435943604
+Adele fue la gran ganadora y es la segunda artista con más Brit Awards en la historia ; POS ; 0.9981662631034852
+Claves para una buena salud digestiva ; POS ; 0.985802412033081
+Tras hito de cierre: Plan Nacional de Protección de Humedales logra reconocer más de 15 mil hectáreas protegidas en Los Lagos ; POS ; 0.986211121082306
+Incautan más de 5 toneladas de recursos del mar. ; POS ; 0.9685049653053284
+Corporación de Emprendedores de Turismo Rural presentarán innovadores destinos de las Provincias de Llanquihue y Osorno al Sindicato de Minera Collahuasi ; POS ; 0.968045175075531
+5 mujeres matemáticas que han cambiado al mundo ; POS ; 0.99673730134964
+
+
+Solo el 30% del espacio editorial, medios y premios lo ocupan ellas ; NEU ; 0.8499142527580261
+Seremi del Trabajo Ángel Cabrera hace un llamado a respetar el feriado obligatorio e irrenunciable del comercio este 1° de mayo ; NEU ; 0.923374891281128
+Sujeto cumplirá pena en libertad tras balear a perro de mujer en Puerto Montt ; NEU ; 0.9641699194908142
+Municipalidad de Puerto Varas sale a terreno para facilitar a vecinos de Colonia Río Sur acceso a servicios ; NEU ; 0.9818552732467652
+Essal presentará querella contra responsables de obstrucción que generó rebalse en alcantarillado ; NEU ; 0.983574151992798
+Carabineros: La solución a la congestión vehicular de Osorno no pasa por un aumento de dotación policial ; NEU ; 0.9514164924621582
+Municipio llamará a licitación el mejoramiento de complejo deportivo de Rahue Alto ; NEU ; 0.991479516029358
+Osorno: ¿Dónde se están tomando exámenes PCR este fin de semana? ; NEU ; 0.9981966614723206
+Encuestadores recorren la región para levantar información de catastro frutícola 2022 ; NEU ; 0.9977820515632628
+Gobierno anuncia alerta sanitaria con financiamiento para afrontar el problema de la basura en Ancud. ; NEU ; 0.992819607257843
+Pudú murió al ser atropellado por automóvil en parque nacional de Los Lagos [FOTOS] ; NEU ; 0.8623506426811218
+Autoridades piden visitas matinales y no botar basuras a turistas que repletan Parque Nacional Vicente Pérez Rosales ; NEU ; 0.9891074895858764
+Sólo quedan tres días para postular a llamado de recambio de calefactores eléctricos en Osorno ; NEU ; 0.9974679946899414
+Dan a conocer los resultados de la primera Encuesta de Violencia Intrafamiliar en zona rural ; NEU ; 0.9937546253204346
+Terminó la toma en Liceo Carrera Pinto de Frutillar tras 23 días ; NEU ; 0.9937115907669068
+Ministro de Ciencias inauguró año académico 2022 en la ULagos ; NEU ; 0.9858009219169616
+Puerto Varas tiene 120 casos activos, 67 de los cuales fueron detectados en las últimas 48 horas ; NEU ; 0.9952521324157716
+Diputado Mauro González conformará las comisiones de Pesca y Acuicultura; y Obras Públicas, Transporte y Telecomunicaciones. ; NEU ; 0.9950125813484192
+¿Cómo saber si tengo Bono por hijo? Consultar con el RUT desde aquí ; NEU ; 0.9991368651390076
+MUNICIPIO DE QUINCHAO HOMENAJEÓ A COMERCIANTE CASTREÑA MARÍA CÁRDENAS CATEPILLÁN ; NEU ; 0.9693459272384644
+
+
+1.595 contagios y 2 fallecidos dejó el covid-19 este jueves en la región de Los Lagos ; NEG ; 0.996847927570343
+Diputados locales se activan ante sostenida alza de precios ; NEG ; 0.9908089637756348
+Operativo detectó el ingreso irregular de 11 extranjeros ; NEG ; 0.8118236064910889
+Acomodador de automóviles callejero falleció tras ser atropellado por Taxi ; NEG ; 0.9620285630226136
+Hombre perdió la vida tras ser arrastrado por torrente del río Rahue ; NEG ; 0.9588187336921692
+Largas filas en Estaciones de Servicio de Puerto Varas y la zona por comunicado de ENAP de posible desabastecimiento de combustibles en el sur del país ; NEG ; 0.5876033902168274
+Colisión múltiple terminó con camión saliéndose de la pista en acceso sur de Puerto Montt ; NEG ; 0.611220121383667
+Endler, figura en el paso del Olympique de Lyon a la final de la Champions ; NEG ; 0.7280961275100708
+Impactante: Automóvil terminó sobre el techo de una casa tras desbarrancarse ; NEG ; 0.987900972366333
+Mario Marcel dio positivo a COVID-19 y no asistirá a la reunión de Boric con su gabinete ; NEG ; 0.9602235555648804
+Máximo Menem habló sobre ‘fea jugada’ que lo pretende dejar sin herencia de su padre ; NEG ; 0.9928023219108582
+Comunicado FEDESUR Camioneros Presidente de los camioneros dijo que lo que ocurrió en la Araucanía con la ministra es una mala señal de lo que viene ; NEG ; 0.9989018440246582
+Incautan 1400 kilos de merluza del sur de origen ilegal en Osorno ; NEG ; 0.9675616025924684
+Osorno: Adulto mayor murió en incendio en sector Ovejería ; NEG ; 0.655651330947876
+El desgarrador llanto de la madre de Narumi tras alegatos finales de abogada ; NEG ; 0.9971952438354492
+Trabajador muere electrocutado mientras descargaba madera en Calbuco ; NEG ; 0.973349153995514
+Ciclista sufre grave accidente por mal estado de ciclovía camino a Ensenada ; NEG ; 0.9923060536384584
+Banco de Chile y Fundación Sustenta Pucón lanzan Glocal Pucón, y desafían a emprendedores a pensar e innovar para impulsar el desarrollo sostenible de territorios y comunidades chilenas ; NEG ; 0.9054709672927856
+¿Qué implica para una persona vivir con afasia? ; NEG ; 0.7823379039764404
+Hombre de 75 años que asesinó a su cuñado será internado en un siquiátrico ; NEG ; 0.7210306525230408
+
+

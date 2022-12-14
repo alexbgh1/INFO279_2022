@@ -1,0 +1,66 @@
+“Por las hebras de vellón”, música para viajar por el sonido de Chiloé ; POS ; 0.5489941239356995
+Teatro del Lago y Teatro Biobío estrenan Patagonia, su primera co-producción de ópera ; POS ; 0.990304172039032
+Con gran éxito finalizó el proceso de postulación al programa “Mujeres Jefas de Hogar” 2022 en Chonchi. ; POS ; 0.9958575367927552
+Invitan a seminario sobre la experiencia de regadío en España como herramienta tecnológica para abordar el cambio climático ; POS ; 0.527164876461029
+En Puerto Varas: Mujeres líderes de la Región de Los Lagos participaron de conversatorio sobre la importancia de la equidad de género en el Ecosistema de Emprendimiento e Innovación ; POS ; 0.5173788666725159
+Convencional Harry Jürgensen atendió más de 100 audiencias en semanas territoriales ; POS ; 0.9944453835487366
+Con lanzamiento de Guía de Ríos, ONG Puelo Patagonia celebra sus 9 años de trabajo en los valles de Puelo y Cochamó ; POS ; 0.9953529834747314
+Estudiantes de Calbuco logran primer lugar en Congreso Nacional Explora ; POS ; 0.8640511631965637
+Ministra del Medio Ambiente recibió al Embajador del Gran Ducado de Luxemburgo y agradeció apoyo al desarrollo a la estrategia Chiloé Reduce. ; POS ; 0.5895015597343445
+Estadio Ewaldo Klein: Municipalidad de Puerto Varas reingresó proyecto actualizado y avanza en su concreción con dirigentes deportivos ; POS ; 0.7878367304801941
+Paulette Irarrázaval: “La invitación a la comunidad es a experimentar la cuenca del Lago Llanquihue y su oferta creativa” ; POS ; 0.969854474067688
+"Esta distinción es inesperada para mí y es un honor" ; POS ; 0.9954630732536316
+Estudiantes de Cristo Rey de Ralún reciben implementación gracias a programa Escuela con Energía de Saesa ; POS ; 0.6208446621894836
+Seremia de Gobierno de los lagos apuesta a reforzar trabajo con organizaciones sociales ; POS ; 0.6622384190559387
+Se estrena en -1Cine el documental chileno “Ver es un Acto” que invita libremente a reflexionar sobre la diversidad mental ; POS ; 0.6498528122901917
+Fosis los lagos y Teletón renuevan alianza para potenciar microemprendimiento e inclusión laboral ; POS ; 0.9520727396011353
+Autoridades y actores sociales destacan en Nueva Braunau iniciativa BID que escogió a Puerto Varas como uno de los destinos inteligentes del continente ; POS ; 0.9971730709075928
+Remodelación de Plaza de Armas de Ancud se hará realidad. ; POS ; 0.9829051494598388
+Servicio Mejor Niñez Los Lagos certificó a profesionales y jóvenes de residencias en la región. ; POS ; 0.9966368675231934
+España: Daniela Ramírez y Alfredo Castro arrasaron en los Premios Platino ; POS ; 0.9570527076721193
+
+
+Cuatro jardines infantiles de los lagos cuentan con sello Covid-19 ; NEU ; 0.9591777324676514
+¿Cuál es el modelo ideal para el trabajo post pandemia? [Video] ; NEU ; 0.9955897331237792
+Se mantendrá activa durante el período estival cumpliendo tareas de soberanía e integración nacional: Carabineros habilitó avanzada temporal fronteriza “Vuriloche” en comuna de Puerto Varas ; NEU ; 0.9963518381118774
+Oficializan la declaratoria de Santuario de la Naturaleza a los humedales del río Maullín ; NEU ; 0.9871785640716552
+Sector Calle de Ancud contará con electricidad. ; NEU ; 0.9953367114067078
+Para entregar oportunidades de capacitación a los jóvenes de la región SENCE e INJUV firman importante convenio ; NEU ; 0.8332944512367249
+Nuevos Seremis trazan hoja de ruta de sus carteras con el gobernador Vallespín ; NEU ; 0.997897744178772
+Convención hace uso de su prórroga ; NEU ; 0.9730062484741212
+IIIª BRIGADA AÉREA CELEBRÓ 92° ANIVERSARIO DELA FACH CON CEREMONIA MILITAR EN PUERTOMONTT ; NEU ; 0.9932977557182312
+Ed Sheeran y J Balvin lanzan un EP conjunto con dos canciones ; NEU ; 0.8922590017318726
+"Impresiones sobre el Lago Llanquihue y Puerto Varas en 1924" Por Rafael Piquer A. Investigador en Historia de la Región de Los Lagos ; NEU ; 0.9867074489593506
+Apoyo del Centro de Negocios a emprendimientos locales: Sercotec y AIEP firman convenio con municipio de Puerto Octay ; NEU ; 0.9635562300682068
+Postales pictóricas de Pucatrihue se exhiben en el Surazo ; NEU ; 0.9891533255577089
+Delegada Presidencial Regional presentó plan de fiscalizaciones para Semana Santa ; NEU ; 0.9927957653999328
+Abren postulaciones al programa “Mujeres Jefas de Hogar” en Osorno ; NEU ; 0.995254397392273
+Presidente de Cooperativa Crell fue reelegido como Presidente de la Federación Nacional de Cooperativas Eléctricas ; NEU ; 0.9946809411048888
+Comisión aprueba fecha al fin del actual Senado y quorum de 2/3 para reformas ; NEU ; 0.9959638118743896
+Concejal de Osorno propuso que el municipio realice campañas contra el acoso sexual laboral ; NEU ; 0.9794107675552368
+Llaman a avanzar en la inclusión de personas con Trastorno del Espectro Autista ; NEU ; 0.9950751662254332
+Dieron el vamos a las obras de conservación de Escuela Italia en Osorno ; NEU ; 0.9895341992378236
+
+
+Ensenada vivió la temperatura más baja del año: 4,4 °C bajo cero ; NEG ; 0.9945195317268372
+Roban antigüedades de hotel abandonado donde se hospedaron los príncipes de Inglaterra ; NEG ; 0.9898315072059632
+Seremi de Salud clausura escuela por presencia de ratones ; NEG ; 0.9959912896156312
+Semáforos obsoletos en Puerto Varas ; NEG ; 0.974027931690216
+3 cortes de luz afectarán a comunas de la Provincia de Chiloé ; NEG ; 0.9653820395469666
+Cerca de 60 toneladas de recursos del mar ha incautado la Quinta Zonal naval previo a Semana Santa ; NEG ; 0.9111743569374084
+Tasa de desocupación en la región de Los Lagos se ubica en 3,5% ; NEG ; 0.991051971912384
+Mujeres y extranjeros están menos satisfechos que el resto de la población respecto de su trabajo y vida social ; NEG ; 0.9982417821884156
+Consejero Cárcamo presenta inquietud por retraso en bonos pymes para familias afectadas por incendio en Castro. ; NEG ; 0.578559935092926
+Camila Hirane: "Martina es una justiciera de su propia vida" ; NEG ; 0.9976335763931274
+¿Por qué es baja la participación de las mujeres en emprendimientos? ; NEG ; 0.998140811920166
+Trabajar muere aplastado mientras realizaba mantención de embarcación en Quehui ; NEG ; 0.9591886401176452
+Cayó 9 puntos según Cadem: Experto apunta a la falta de comunicación como arista clave en baja confianza en la Convención Constituyente ; NEG ; 0.9547134637832642
+Senador PS Fidel Espinoza criticó la eliminación del Senado ; NEG ; 0.8427014946937561
+Explosivo incremento de denuncias por convivencia escolar en la región ; NEG ; 0.998407781124115
+Informe CCHC indica contracción sostenida de la construcción en Chile ; NEG ; 0.9986649751663208
+Confirman fallo que ordena a empresa pagar prestaciones adeudadas a trabajadores despidos injustificadamente ; NEG ; 0.9911549091339112
+Municipio de Ancud denunciará a responsables de microbasurales. ; NEG ; 0.8689159750938416
+Puerto Montt no aumentará dotación de Carabineros previsto para 17 comunas del país por el Gobierno ; NEG ; 0.8651798367500305
+Inflación interanual en Estados Unidos llega al 7%, la cifra más alta desde 1982 ; NEG ; 0.6801117062568665
+
+
