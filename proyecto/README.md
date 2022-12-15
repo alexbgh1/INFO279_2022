@@ -22,11 +22,11 @@
 <h2>Enfoque</h2>
     <p>El enfoque del proyecto está dado para cumplir con alguna petición del Gobierno Regional de Los Lagos <b>(GORE)</b>, procesando las noticias de ciertos tópicos o palabras claves y generando un informe pdf.</p>
 <h2>Algunas pistas de reflexiones para empezar…</h2>
-    <h3>Elegir qué tipo de informe quieren producir: qué periodo de análisis, qué tema(s) de interés, cuál frecuencia del informe, qué indicadores pueden ayudar la toma de decisión del GORE…</b></h3>
-        <p>---</p>
-    <h3><b>Técnicas de TAL que conocen por el momento: Extracción de conceptos claves, Extracción de entidades, Análisis de tópicos, Word Embedding</b></h3>
-        <p>Quizás la única que no se aplica directamente para análisis es Word Embedding</p>
-    <h3><b>Representar los indicadores con visualización de datos (mapas de la región, gráfos, lineas de tiempo, etc.)</b></h3>
+    <h3>Tema de interés y periodicidad</b></h3>
+        <p>Se consideró abarcar un tema general y de empleo, se considerarán 6 meses, desde el inicio del 2022.</p>
+    <h3><b>Técnicas TAL</b></h3>
+        <p>Extracción de conceptos claves, Extracción de entidades, Análisis de tópicos</p>
+    <h3><b>Representar los indicadores con visualización de datos</b></h3>
         <p>Se mostrarán mapas de la Región según tópicos de relevancia y positividad de las noticias</p>
     <h3><b>¿Qué ideas tienen para distinguir noticias "positivas" y noticias "negativas"?</b></h3>
         <p>Se aplicará <i>finiteautomata/beto-sentiment-analysis</i> para clasificar las noticias.</p>

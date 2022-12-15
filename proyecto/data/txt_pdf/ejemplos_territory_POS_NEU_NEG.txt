@@ -1,28 +1,66 @@
-Colegio Inmaculada Concepción de Puerto Varas se coronó campeón en etapa comunal de Juegos Deportivos Escolares en Básquetbol femenino ; POS ; 0.8625015616416931
-Día del Emprendimiento: consejos para iniciar un negocio de manera exitosa ; POS ; 0.9847820401191713
-Delegación Provincial Presidencial de Chiloé activa red de apoyo para familia del pequeño David. ; POS ; 0.9416362643241882
-Castro Municipio dice presente en feria internacional de cruceros. ; POS ; 0.9967206120491028
-Red de Asistencia Digital Fortalece Pyme Los Lagos ofrece una oportunidad para que las Pymes de la región hagan el chequeo digital de sus empresas ; POS ; 0.8379048109054565
-Increíble salvada: Helicóptero capotó en Cochamó y sus 5 ocupantes resultaron ilesos ; POS ; 0.9741888642311096
-Data Influye: Un 42% tiene altas expectativas del primer año de Gobierno de Boric ; POS ; 0.9776648879051208
-De Pichicolo es la Reina de las Empanadas XL de Sierra Ahumada ; POS ; 0.9821924567222596
-Hoy viernes 18 de marzo en Teatro del Lago: Se estrena la ópera Patagonia, una visión americanista de la expedición de Magallanes ; POS ; 0.994201123714447
-La importancia del buen dormir ; POS ; 0.9708351492881776
-COMBAS celebra su cuarto aniversario ; POS ; 0.9783451557159424
-Emprendimiento de Puyehue gana el 6° Concurso Nacional Desafío Emprendedor ; POS ; 0.9732071757316588
-Humedales: clave en el funcionamiento de los ecosistemas ; POS ; 0.971163809299469
-Atlético Juega en casa este fin de semana: Enfrenta a Colegio Los Leones y Puente Alto ; POS ; 0.79083651304245
-Más de 500 personas conocieron la historia y visitaron ex Lechera de Nueva Braunau en el Día de los Patrimonios ; POS ; 0.6517285108566284
+Todo listo para la Expoferia Purranque 2022 a realizar este fin de semana ; POS ; 0.9961255192756652
+En el Gimnasio Fiscal de Puerto Varas: Clásico Lacustre este sábado en Liga Saesa ; POS ; 0.9240209460258484
+Saesa cambia su imagen corporativa y lanza nuevas plataformas para sus clientes. ; POS ; 0.9657061100006104
+“Cochamó se llenará de turistas”: La nueva teleserie de Mega deslumbró con los paisajes de Los Lagos ; POS ; 0.9973453879356384
 Gobierno Regional de Los Lagos entregará más de $400 millones en apoyo a deportistas de alto rendimiento de la Región ; POS ; 0.7123727202415466
-"Es un disco que mira hacia el futuro" ; POS ; 0.9972965121269226
-Cooprinsem firma nuevo acuerdo con empresa irlandesa para potenciar la agricultura nacional. ; POS ; 0.5437024831771851
-“El que nada hace, nada teme” ; POS ; 0.9967203736305236
-Reciclaje colaborativo: El camino hacia una economía circular ; POS ; 0.7577723860740662
+Iniciativa RIMAS inaugura tres cursos de fotografía durante el mes de julio en el COMBAS ; POS ; 0.5034892559051514
+Data Influye: Un 42% tiene altas expectativas del primer año de Gobierno de Boric ; POS ; 0.9776648879051208
+Encuesta Nacional de Tenencia Responsable: 99,7% de las personas asegura que las mascotas son parte de su familia y contribuyen a su felicidad ; POS ; 0.97355979681015
+Gobernador Vallespín: “el traspaso de competencias a las regiones permite ir construyendo una nueva mirada del territorio” ; POS ; 0.9933114051818848
+Bienes Nacionales presenta su campaña Vamos a la Playa ; POS ; 0.8066118359565735
+Cantante Fernando Vargas logra un cupo para mostrar su talento en "The Voice" ; POS ; 0.5409621596336365
+Luchan por un mundo mejor: Municipio entregó reconocimiento a Hijos Ilustres y Ciudadanos Destacados de Puerto Montt ; POS ; 0.5560011267662048
+Comentario Literario de Manuel Gallegos Abarca, escritor: “Hablándole a Teo”, una apasionante novela ; POS ; 0.9986248016357422
+Maravillas Chilenas: elige los siete lugares más bellos y significativos de nuestro país ; POS ; 0.9969711303710938
+Chiloé dio un tremendo paso para ser región ; POS ; 0.7083190083503723
+Con positiva participación, IX Escuela Ambiental de Verano 2022 ; POS ; 0.995935559272766
+Región de Los Lagos ya cuenta con más de 500 hectáreas de humedales urbanos protegidos por ley ; POS ; 0.9427549242973328
+Los amigos del Padre Pepe se unen a la celebración del Día del Patrimonio ; POS ; 0.9739330410957336
+Próximamente se realizará la IX Escuela Ambiental de Verano ; POS ; 0.5127318501472473
+Destacada pianista Edith Fischer interpreta a “Beethoven Camerístico” en Teatro del Lago ; POS ; 0.7179186344146729
 
 
-Corte de luz afectará a la comuna de Ancud este viernes ; NEU ; 0.6699677109718323
-Puerto Montt registra a nivel país la cifra más alta de automovilistas utilizando su celular mientras conducen ; NEU ; 0.6841658353805542
-Dieron el vamos a las obras de conservación de Escuela Italia en Osorno ; NEU ; 0.9895341992378236
-Extienden búsqueda de joven desaparecido en Cochamó ; NEU ; 0.9724652767181396
-Municipalidad invita a creadores locales a participar del concurso Puerto Montt Cultura Adelante. ; NEU ; 0.5356513857841492
-WOM es certificada con el “Sello 40 Horas” por el Ministerio del Trabajo ; NEU ; 0.9975022673606871
+Delegada Presidencial Regional se reunió con vecinos de Llanquihue ; NEU ; 0.989431858062744
+Instalarán reductor de velocidad frente al Instituto Adolfo Matthei en Avenida René Soriano ; NEU ; 0.9950217008590698
+Vecinos de los Palafitos de Pedro Montt 1 reciben aporte para la reconstrucción de sus viviendas. ; NEU ; 0.9892557859420776
+Herramientas para lograr una buena lectura con los niños: Primer Seminario de Mediación Lectora en Puerto Varas ; NEU ; 0.9382006525993348
+IPSUSS: 56% disminuye ritmo de vacunación de cuarta dosis contra el COVID-19 ; NEU ; 0.9968294501304626
+Ministerio Público inicia investigación tras denuncia por abuso sexual en escuela municipal de Castro ; NEU ; 0.9894627928733826
+Municipio de Frutillar da el vamos al Plan de Desarrollo Comunal 2022 ; NEU ; 0.9856376051902772
+Tránsito será interrumpido este lunes en el puente Cau Cau para paso de dos embarcaciones ; NEU ; 0.989840805530548
+Nuevo concepto de fiesta consciente “Ecstatic Dance” llega a Puerto Varas ; NEU ; 0.822674036026001
+Consejero Alexis Casanova solicitará a seremi de Agricultura y director regional de Indap intervenir por los peligros que causa la acción de jaurías que provocan mortandad. ; NEU ; 0.5495474934577942
+Oficina del Registro Civil de Puerto Octay atenderá de lunes a viernes a partir de este martes ; NEU ; 0.9983855485916138
+Seleccionado por el Banco Interamericano de Desarrollo: Puerto Varas fue elegido para el Programa Internacional Turismo Futuro ; NEU ; 0.8794305920600891
+Tribunal Ambiental de Valdivia inspeccionará zona de La Marina en Puerto Varas ; NEU ; 0.9842990636825562
+Fundación local Trabajo Social en Red habilitará el Segundo Centro Satelital en Paso El León ; NEU ; 0.9929156303405762
+Condenaron a 10 años de presidio a autor de homicidio en centro penitenciario de Puerto Montt ; NEU ; 0.5146512389183044
+Seremi de Bienes Nacionales llegó hasta Río Puelo para entregar títulos de dominio ; NEU ; 0.9933913946151732
+Ya está operando antorcha que quema biogás en Relleno Sanitario La Laja ; NEU ; 0.9949459433555604
+Este fin de semana juega de local: Atlético sigue puntero en la Liga Nacional de Básquetbol ; NEU ; 0.5402187705039978
+Puerto Montt: Inician investigación contra la Empresa “Aguas San Isidro” por corte de agua potable a cerca de 900 viviendas en Panitao ; NEU ; 0.9193042516708374
+PDI de Osorno indaga robo con intimidación en la empresa Coca Cola ; NEU ; 0.7687397599220276
+
+
+Un cuarto de los perros y gatos del país no tiene un hogar para vivir ; NEG ; 0.9992389678955078
+“Nido” en pila sur del Puente Chacao genera dudas y reflota críticas al proyecto ; NEG ; 0.9914421439170836
+LA CRISIS DE NETFLIX ANTICIPA el FIN DE LA "FIEBRE DEL STREAMING" ; NEG ; 0.96925550699234
+AUTORIDADES CONMEMORAN EL DÍA MUNDIAL DE TOMA DE CONCIENCIA DEL ABUSO HACIA PERSONAS MAYORES ; NEG ; 0.9926540851593018
+Por incumplimiento de contrato: Municipio pagará millonaria indemnización a empresa que construía relleno sanitario ; NEG ; 0.9316428303718568
+Desalojan a vendedores callejeros de Puerto Montt ; NEG ; 0.9976195693016052
+Alertan indicaciones realizadas a la Ley de Protección Ambiental de Turberas en Chile ; NEG ; 0.8051254749298096
+Riesgos de la automedicación en invierno ; NEG ; 0.9888988137245178
+Adulto perdió la vida tras ser atropellado en Puerto Montt ; NEG ; 0.7892982959747314
+432 contagios y 3 fallecidos dejó el covid-19 este lunes en la región de Los Lagos ; NEG ; 0.9968029260635376
+Volcán Osorno: deslizamiento de material interrumpe tránsito en ruta a Petrohué ; NEG ; 0.5143787264823914
+Vecinos y Municipio de Osorno acusan que habitantes del sector urbano desechan escombros en la zona rural ; NEG ; 0.9441246390342712
+65 contagios y un fallecido por covid se reportaron este sábado en la región de Los Lagos ; NEG ; 0.9932752847671508
+Protagonistas de video viral en playa Metri fueron detenidas por amenazas y lesiones leves ; NEG ; 0.866533100605011
+El fantasma de la paralización del Bypass por hallazgos arqueológicos aparece nuevamente ; NEG ; 0.998589813709259
+¿Por qué es baja la participación de las mujeres en emprendimientos? ; NEG ; 0.998140811920166
+Hombre confesó haber asesinado y enterrado a su esposa hace más de 20 años ; NEG ; 0.8924079537391663
+La incomodidad de Camila Vallejo tras pregunta de Monserrat Álvarez: "Voy a cometer una infidencia ; NEG ; 0.9985883831977844
+OS9 de carabineros detiene en Puerto Montt a delincuente vinculados a tres delitos de robo ; NEG ; 0.8876898884773254
+Prisión preventiva para sujeto que violó a una adolescente y a una adulta mayor en Osorno y San Juan de la Costa ; NEG ; 0.6494100093841553
+
+
